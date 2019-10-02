@@ -15,10 +15,8 @@ Season of mists and mellow fruitfulness <br>
   <li>Stir and add milk </li>
 </ol>
 
+<p>Things to do today </p>
 <ul>
-  <li>Boil the Kettle </li>
-  <li>Get a teabag</li>
-  <li>Pour water in the mug</li>
-  <li>Stir and add milk </li>
+  <li>Do Reading</li>
 </ul>
 
