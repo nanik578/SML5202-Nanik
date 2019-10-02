@@ -7,3 +7,10 @@ Season of mists and mellow fruitfulness <br>
 </p>
   
 <hr>
+<p>How to make a cup of tea</p>
+<ol>
+  <li>Boil the Kettle </li>
+  <li>Get a teabag</li>
+  <li>Pour water in the mug</li>
+  <li>Stir and add milk </li>
+</ol>
