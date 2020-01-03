@@ -1,6 +1,6 @@
 <h1>French Is Fun!</h1> 
 
-<p>This website is about English Language, culture and literature.</p>
+<p>TFrench website.</p>
 
 
 <h2> Ode to Autumn</h2> 
