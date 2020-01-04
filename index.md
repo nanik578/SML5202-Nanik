@@ -1,6 +1,6 @@
 <h1>French Is Fun!</h1> 
 
-<p>TFrench website.</p>
+<p>French website.</p>
 
 
 <h2> Ode to Autumn</h2> 
